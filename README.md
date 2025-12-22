@@ -5,3 +5,11 @@ and producing audit-ready reports to support remediation and attack surface redu
 
 Designed with real-world IT and plant environments in mind (e.g., manufacturing, labs, and enterprise networks),
 the toolkit emphasizes safe discovery, port visibility, and operational security best practices.
+
+## What This Shows Employers
+- Understanding of network and server attack surfaces
+- Port configuration and baseline validation
+- Identification of legacy and insecure protocols
+- Secure, authorized auditing practices
+- Clear documentation and reporting for remediation
+- Python scripting applied to cybersecurity operations
