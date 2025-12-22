@@ -1,3 +1,8 @@
+## Authorization Notice
+This tool is intended for authorized internal auditing and educational use only.
+All scanning must be approved by the system/network owner.
+
+
 ## Project Overview
 This project demonstrates practical cybersecurity technician skills used in enterprise and industrial environments.
 It focuses on identifying exposed network services, validating configurations against an approved baseline,
