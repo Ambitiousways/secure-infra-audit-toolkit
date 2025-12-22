@@ -22,3 +22,16 @@ The toolkit emphasizes safe discovery, port visibility, and operational security
 ## Authorization Notice
 This tool is intended for authorized internal auditing and educational use only.
 The system or network owner must approve all scanning activities.
+
+## Example Output
+
+The following screenshots show sample output generated during an authorized local audit.
+
+### Terminal Execution
+![Terminal Output](examples/screenshots/terminal_run.png)
+
+### CSV Audit Report
+![CSV Report](examples/screenshots/sample_report_csv.png)
+
+### JSON Audit Report
+![JSON Report](examples/screenshots/sample_report_json.png)
