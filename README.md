@@ -13,3 +13,8 @@ the toolkit emphasizes safe discovery, port visibility, and operational security
 - Secure, authorized auditing practices
 - Clear documentation and reporting for remediation
 - Python scripting applied to cybersecurity operations
+
+---
+**Author:** Shanice Adams  
+**Role Focus:** Cybersecurity Technician / Infrastructure Security  
+**Experience Context:** Enterprise IT, industrial environments, server and network builds
