@@ -40,3 +40,23 @@ The following screenshots show sample output generated during an authorized loca
 
 ### JSON Audit Report
 ![JSON Report](examples/screenshots/sample_report_json.png)
+
+Why This Matters
+
+In enterprise and industrial environments, cybersecurity is not just about identifying vulnerabilities—it is about understanding how infrastructure is configured, what services are exposed, and whether those exposures align with business and operational requirements.
+
+This project demonstrates a practical, infrastructure-first approach to cybersecurity. Rather than relying on intrusive testing or theoretical controls, it focuses on visibility, baseline validation, and clear documentation. The output is designed to support real-world decision-making by operations, security, and IT teams.
+
+Specifically, this project shows the ability to:
+
+Validate port and service exposure against an approved security baseline
+
+Identify legacy or high-risk services that increase the attack surface
+
+Produce audit-ready documentation suitable for regulated environments
+
+Support remediation and configuration hardening without disrupting operations
+
+Bridge cybersecurity principles with hands-on infrastructure experience
+
+In environments such as manufacturing, utilities, and other regulated industries, this approach helps organizations reduce risk while maintaining system reliability, uptime, and compliance.
