@@ -50,9 +50,13 @@ This project demonstrates a practical, infrastructure-first approach to cybersec
 Specifically, this project shows the ability to:
 
 ⦁	Validate port and service exposure against an approved security baseline
-⦁	Identify legacy or high-risk services that increase attack surface
+
+⦁	Identify legacy or high-risk services that increase the attack surface
+
 ⦁	Produce audit-ready documentation suitable for regulated environments
+
 ⦁	Support remediation and configuration hardening without disrupting operations
+
 ⦁	Bridge cybersecurity principles with hands-on infrastructure experience
 
 In environments such as manufacturing, utilities, and other regulated industries, this approach helps organizations reduce risk while maintaining system reliability, uptime, and compliance.
