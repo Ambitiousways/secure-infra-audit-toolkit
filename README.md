@@ -1,7 +1,3 @@
-## Authorization Notice
-This tool is intended for authorized internal auditing and educational use only.
-All scanning must be approved by the system/network owner.
-
 
 ## Project Overview
 This project demonstrates practical cybersecurity technician skills used in enterprise and industrial environments.
@@ -24,9 +20,6 @@ The toolkit emphasizes safe discovery, port visibility, and operational security
 **Role Focus:** Cybersecurity Technician / Infrastructure Security  
 **Experience Context:** Enterprise IT, industrial environments, server and network builds
 
-## Authorization Notice
-This tool is intended for authorized internal auditing and educational use only.
-The system or network owner must approve all scanning activities.
 
 ## Example Output
 
@@ -60,3 +53,25 @@ Specifically, this project shows the ability to:
 ⦁	Bridge cybersecurity principles with hands-on infrastructure experience
 
 In environments such as manufacturing, utilities, and other regulated industries, this approach helps organizations reduce risk while maintaining system reliability, uptime, and compliance.
+
+How This Would Be Used in Production
+
+In a production environment, this toolkit would be used as a controlled, authorized assessment tool to support ongoing infrastructure security and configuration management.
+
+Typical usage scenarios include:
+
+Baseline validation: Verifying that servers, workstations, or network-connected devices comply with approved port and service configurations before or after deployment
+
+Change verification: Confirming that system changes, upgrades, or maintenance activities did not introduce unexpected service exposure
+
+Periodic audits: Supporting scheduled security reviews and compliance checks in regulated environments
+
+Incident response support: Quickly identifying exposed services during the investigation of suspected misconfigurations or security events
+
+The tool is designed to run safely in live environments, with a focus on visibility and documentation rather than exploitation. Results are produced in structured CSV and JSON formats, enabling easy review by security, IT, and operations teams, as well as integration into existing audit and remediation workflows.
+
+By aligning technical findings with baseline policies and remediation guidance, the toolkit supports informed decision-making while maintaining system reliability, uptime, and operational continuity.
+
+## Authorization Notice
+This tool is intended for authorized internal auditing and educational use only.
+All scanning must be approved by the system/network owner.
